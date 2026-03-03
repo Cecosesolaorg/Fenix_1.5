@@ -1,4 +1,4 @@
-# Tickera Fénix Premium - Cecosesola 🚀
+# Tickera Fénix - Cecosesola 🚀 Prueba 
 
 Aplicación web profesional diseñada para la gestión e impresión de tickets de precios para las Ferias de Cecosesola.
 
@@ -36,3 +36,4 @@ Para facilitar el mantenimiento, el código se ha dividido en:
 
 ---
 *Simbolizando el resurgimiento y la creación a partir de la dificultad.*
+
