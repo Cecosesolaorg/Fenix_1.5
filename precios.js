@@ -142,7 +142,6 @@ const inventarioProductos = [
   "VAINILLA",
   "VINAGRE DE MANZANA"
 ];
-
 let currentFeria = null; // Se inicializa en init()
 const CURRENCY_SYMBOL = "Bs";
 const MAX_RETRIES = 3;
